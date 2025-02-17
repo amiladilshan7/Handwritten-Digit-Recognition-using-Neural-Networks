@@ -172,19 +172,7 @@ from tensorflow.keras.models import load_model
 model = load_model("handwritten_digit_model.h5")
 ```
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 Feel free to contribute to this project by submitting issues or pull requests. If you have any questions, please contact me at [your-email@example.com](mailto:your-email@example.com).
 ```
 
-### Notes:
-1. Replace `your-username` with your actual GitHub username.
-2. Replace `your-email@example.com` with your actual email address.
-3. Ensure the `requirements.txt` file is included in the repository for easier dependency installation.
-4. Add the generated plots (e.g., `accuracy_plot.png`, `loss_plot.png`, `sample_predictions.png`) to the repository for visualization.
-
-This `README.md` file provides a clear and structured overview of your project, making it easy for others to understand and use your work.
